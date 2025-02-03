@@ -17,6 +17,7 @@
 
 <img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
 
+
 ###
 
 <div align="left">
@@ -75,5 +76,8 @@
 <img src="https://raw.githubusercontent.com/msSandhya23/msSandhya23/output/snake.svg" alt="Snake animation" />
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=msSandhya23&theme=radical)](https://git.io/streak-stats)
+
+<img align="right" height="150" src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif"  />
+
 ###
 ![Meowww](https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/footers/gray0_ctp_on_line.svg?sanitize=true)
