@@ -75,10 +75,10 @@
 
 <img src="https://raw.githubusercontent.com/msSandhya23/msSandhya23/output/snake.svg" alt="Snake animation" />
 
-<div style=" display:flex;"> 
+<div> 
 
 <a align="center" href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=msSandhya23&theme=radical" alt="GitHub Streak" /></a>
-<img align="right" height="150" src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif"  />
+<img align="right" height="200" src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif"  />
 </div>
 
 
