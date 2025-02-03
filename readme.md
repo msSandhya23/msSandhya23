@@ -75,3 +75,4 @@
 <img src="https://raw.githubusercontent.com/msSandhya23/msSandhya23/output/snake.svg" alt="Snake animation" />
 
 ###
+![Meowww](https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/footers/gray0_ctp_on_line.svg?sanitize=true)
