@@ -74,5 +74,6 @@
 
 <img src="https://raw.githubusercontent.com/msSandhya23/msSandhya23/output/snake.svg" alt="Snake animation" />
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=msSandhya23&theme=radical)](https://git.io/streak-stats)
 ###
 ![Meowww](https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/footers/gray0_ctp_on_line.svg?sanitize=true)
